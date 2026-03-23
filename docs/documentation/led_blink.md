@@ -111,7 +111,7 @@ void loop() {
   // nothing here
 }
 ```
-<img src="Images/robotics_images/lcd/lcd_simulate.png" alt="16 pin connection with Arduino UNO" width="400" height="300">
+<img src="https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/lcd/lcd_simulate.png?ref_type=heads" alt="16 pin connection with Arduino UNO" width="400" height="300">
 
 #### Display On and Off
 
@@ -158,7 +158,7 @@ void loop() {
 }
 ```
 
-<img src="Images/robotics_images/lcd/lcd_with_timer.png" alt="16 pin connection with Arduino UNO" width="400" height="300">
+<img src="https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/lcd/lcd_with_timer.png?ref_type=heads" alt="16 pin connection with Arduino UNO" width="400" height="300">
 
 🔌 5. Interfacing 16x2 LCD Using I2C (4-pin)
 The I2C module is soldered to the back of the LCD, reducing pin usage.
@@ -198,7 +198,7 @@ void loop() {
 }
 ```
 
-<img src="Images/robotics_images/lcd/i2c_lcd.png" alt="I2C LCD showing “Hello I2C LCD" width="400" height="300">
+<img src="https://gitlab.com/anithghalley/robotics_for_students/-/raw/main/Images/robotics_images/lcd/i2c_lcd.png?ref_type=heads" alt="I2C LCD showing “Hello I2C LCD" width="400" height="300">
 
 
 
